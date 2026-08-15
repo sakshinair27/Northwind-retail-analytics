@@ -1,0 +1,35 @@
+geography_key,country,region,state_province,state_code
+1,United States,West,California,CA
+2,United States,South,Texas,TX
+3,United States,Northeast,New York,NY
+4,United States,South,Florida,FL
+5,United States,Midwest,Illinois,IL
+6,United States,West,Washington,WA
+7,United States,Northeast,Pennsylvania,PA
+8,United States,Midwest,Ohio,OH
+9,United States,South,Georgia,GA
+10,United States,South,North Carolina,NC
+11,United States,Midwest,Michigan,MI
+12,United States,Northeast,New Jersey,NJ
+13,United States,South,Virginia,VA
+14,United States,West,Arizona,AZ
+15,United States,Northeast,Massachusetts,MA
+16,United States,West,Colorado,CO
+17,United States,West,Oregon,OR
+18,United States,South,Tennessee,TN
+19,United States,Midwest,Indiana,IN
+20,United States,Midwest,Minnesota,MN
+21,United States,Midwest,Wisconsin,WI
+22,United States,Midwest,Missouri,MO
+23,United States,Northeast,Maryland,MD
+24,United States,West,Nevada,NV
+25,United States,Northeast,Connecticut,CT
+26,United States,West,Utah,UT
+27,United States,South,South Carolina,SC
+28,United States,South,Louisiana,LA
+29,United States,South,Kentucky,KY
+30,United States,South,Oklahoma,OK
+31,Canada,Canada,Ontario,ON
+32,Canada,Canada,British Columbia,BC
+33,Canada,Canada,Quebec,QC
+34,Canada,Canada,Alberta,AB

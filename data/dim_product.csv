@@ -1,0 +1,386 @@
+product_key,product_name,category,subcategory,brand,unit_cost,list_price
+1,Northgate Pro Men's Top 1,Apparel,Men's Tops,Northgate,134.51,267.92
+2,Sable & Co Essential Men's Top 2,Apparel,Men's Tops,Sable & Co,123.1,372.68
+3,Northgate Compact Men's Top 3,Apparel,Men's Tops,Northgate,9.59,16.78
+4,Pinnacle Pro Men's Top 4,Apparel,Men's Tops,Pinnacle,102.78,282.2
+5,Basecamp Compact Men's Top 5,Apparel,Men's Tops,Basecamp,42.8,108.83
+6,Aurora Classic Men's Top 6,Apparel,Men's Tops,Aurora,126.87,272.06
+7,Sable & Co Ultra Men's Top 7,Apparel,Men's Tops,Sable & Co,172.47,368.84
+8,Northgate Compact Men's Top 8,Apparel,Men's Tops,Northgate,21.02,62.13
+9,Willowbrook Everyday Men's Top 9,Apparel,Men's Tops,Willowbrook,146.05,404.2
+10,Vantage Essential Men's Top 10,Apparel,Men's Tops,Vantage,175.27,386.59
+11,Vantage Everyday Men's Top 11,Apparel,Men's Tops,Vantage,149.98,388.39
+12,Lumen Ultra Men's Top 12,Apparel,Men's Tops,Lumen,128.0,214.18
+13,Pinnacle Everyday Men's Top 13,Apparel,Men's Tops,Pinnacle,177.4,526.61
+14,Northgate Compact Men's Top 14,Apparel,Men's Tops,Northgate,52.92,138.5
+15,Lumen Classic Men's Top 15,Apparel,Men's Tops,Lumen,69.15,133.82
+16,CoastalGear Essential Men's Top 16,Apparel,Men's Tops,CoastalGear,111.21,208.39
+17,Basecamp Ultra Men's Top 17,Apparel,Men's Tops,Basecamp,32.76,72.31
+18,Crestline Ultra Men's Top 18,Apparel,Men's Tops,Crestline,124.49,367.07
+19,Aurora Ultra Men's Top 19,Apparel,Men's Tops,Aurora,148.64,429.28
+20,Meridian Everyday Men's Top 20,Apparel,Men's Tops,Meridian,15.65,47.9
+21,Willowbrook Signature Men's Top 21,Apparel,Men's Tops,Willowbrook,41.42,99.36
+22,Crestline Deluxe Men's Top 22,Apparel,Men's Tops,Crestline,29.15,53.15
+23,Vantage Everyday Women's Top 1,Apparel,Women's Tops,Vantage,135.47,309.62
+24,Willowbrook Compact Women's Top 2,Apparel,Women's Tops,Willowbrook,67.71,216.38
+25,Sable & Co Deluxe Women's Top 3,Apparel,Women's Tops,Sable & Co,20.0,33.51
+26,Northgate Classic Women's Top 4,Apparel,Women's Tops,Northgate,114.43,328.11
+27,Meridian Essential Women's Top 5,Apparel,Women's Tops,Meridian,71.72,183.13
+28,Trailhead Everyday Women's Top 6,Apparel,Women's Tops,Trailhead,174.91,520.75
+29,Aurora Essential Women's Top 7,Apparel,Women's Tops,Aurora,123.98,304.89
+30,CoastalGear Signature Women's Top 8,Apparel,Women's Tops,CoastalGear,23.63,54.25
+31,Trailhead Pro Women's Top 9,Apparel,Women's Tops,Trailhead,171.87,515.84
+32,CoastalGear Classic Women's Top 10,Apparel,Women's Tops,CoastalGear,93.35,165.25
+33,Crestline Everyday Women's Top 11,Apparel,Women's Tops,Crestline,152.13,366.98
+34,Pinnacle Classic Women's Top 12,Apparel,Women's Tops,Pinnacle,69.81,129.74
+35,Vantage Pro Women's Top 13,Apparel,Women's Tops,Vantage,109.41,260.59
+36,Northgate Signature Women's Top 14,Apparel,Women's Tops,Northgate,158.66,464.98
+37,CoastalGear Ultra Women's Top 15,Apparel,Women's Tops,CoastalGear,14.19,42.64
+38,Northgate Essential Women's Top 16,Apparel,Women's Tops,Northgate,132.82,385.93
+39,Vantage Classic Women's Top 17,Apparel,Women's Tops,Vantage,26.6,62.79
+40,Vantage Classic Women's Top 18,Apparel,Women's Tops,Vantage,50.65,151.74
+41,Meridian Ultra Women's Top 19,Apparel,Women's Tops,Meridian,167.49,470.38
+42,Basecamp Ultra Women's Top 20,Apparel,Women's Tops,Basecamp,129.48,289.83
+43,Crestline Signature Outerwear 1,Apparel,Outerwear,Crestline,81.11,196.94
+44,Northgate Ultra Outerwear 2,Apparel,Outerwear,Northgate,43.55,93.24
+45,Willowbrook Ultra Outerwear 3,Apparel,Outerwear,Willowbrook,107.57,173.35
+46,Basecamp Pro Outerwear 4,Apparel,Outerwear,Basecamp,44.29,135.03
+47,Lumen Essential Outerwear 5,Apparel,Outerwear,Lumen,94.49,193.29
+48,Trailhead Ultra Outerwear 6,Apparel,Outerwear,Trailhead,98.91,272.73
+49,Willowbrook Deluxe Outerwear 7,Apparel,Outerwear,Willowbrook,46.77,110.23
+50,Meridian Ultra Outerwear 8,Apparel,Outerwear,Meridian,20.6,54.68
+51,Lumen Compact Outerwear 9,Apparel,Outerwear,Lumen,76.35,227.69
+52,Aurora Essential Outerwear 10,Apparel,Outerwear,Aurora,14.67,40.56
+53,Northgate Ultra Outerwear 11,Apparel,Outerwear,Northgate,37.72,92.72
+54,Sable & Co Compact Outerwear 12,Apparel,Outerwear,Sable & Co,36.29,84.93
+55,Northgate Deluxe Outerwear 13,Apparel,Outerwear,Northgate,146.21,434.18
+56,Northgate Pro Outerwear 14,Apparel,Outerwear,Northgate,118.78,292.79
+57,Aurora Essential Outerwear 15,Apparel,Outerwear,Aurora,167.04,494.09
+58,Sable & Co Compact Outerwear 16,Apparel,Outerwear,Sable & Co,89.47,173.75
+59,Meridian Pro Outerwear 17,Apparel,Outerwear,Meridian,32.98,52.88
+60,Meridian Everyday Outerwear 18,Apparel,Outerwear,Meridian,167.07,477.19
+61,CoastalGear Compact Outerwear 19,Apparel,Outerwear,CoastalGear,126.6,350.53
+62,Vantage Deluxe Outerwear 20,Apparel,Outerwear,Vantage,31.24,64.81
+63,Aurora Pro Outerwear 21,Apparel,Outerwear,Aurora,135.64,229.43
+64,Willowbrook Deluxe Outerwear 22,Apparel,Outerwear,Willowbrook,92.5,274.2
+65,Aurora Essential Activewear 1,Apparel,Activewear,Aurora,153.84,263.01
+66,Northgate Ultra Activewear 2,Apparel,Activewear,Northgate,75.06,233.18
+67,Willowbrook Ultra Activewear 3,Apparel,Activewear,Willowbrook,105.89,176.16
+68,Northgate Compact Activewear 4,Apparel,Activewear,Northgate,119.7,299.77
+69,Lumen Everyday Activewear 5,Apparel,Activewear,Lumen,39.95,109.7
+70,Pinnacle Everyday Activewear 6,Apparel,Activewear,Pinnacle,73.66,197.02
+71,CoastalGear Deluxe Activewear 7,Apparel,Activewear,CoastalGear,59.65,167.2
+72,Northgate Pro Activewear 8,Apparel,Activewear,Northgate,84.66,270.7
+73,Northgate Essential Activewear 9,Apparel,Activewear,Northgate,98.62,237.62
+74,Sable & Co Signature Activewear 10,Apparel,Activewear,Sable & Co,159.03,478.18
+75,Lumen Everyday Activewear 11,Apparel,Activewear,Lumen,31.76,93.18
+76,Basecamp Everyday Activewear 12,Apparel,Activewear,Basecamp,111.66,355.03
+77,Crestline Pro Activewear 13,Apparel,Activewear,Crestline,121.54,302.31
+78,Crestline Essential Activewear 14,Apparel,Activewear,Crestline,169.25,307.17
+79,Northgate Classic Footwear 1,Apparel,Footwear,Northgate,51.93,133.34
+80,Basecamp Signature Footwear 2,Apparel,Footwear,Basecamp,39.83,104.15
+81,CoastalGear Deluxe Footwear 3,Apparel,Footwear,CoastalGear,48.2,147.16
+82,Aurora Essential Footwear 4,Apparel,Footwear,Aurora,115.63,338.44
+83,Aurora Pro Footwear 5,Apparel,Footwear,Aurora,62.71,113.46
+84,CoastalGear Classic Footwear 6,Apparel,Footwear,CoastalGear,134.46,333.82
+85,Meridian Pro Footwear 7,Apparel,Footwear,Meridian,23.69,73.73
+86,Basecamp Classic Footwear 8,Apparel,Footwear,Basecamp,100.02,293.59
+87,Willowbrook Classic Footwear 9,Apparel,Footwear,Willowbrook,79.64,132.75
+88,Lumen Pro Footwear 10,Apparel,Footwear,Lumen,162.21,314.06
+89,Pinnacle Essential Footwear 11,Apparel,Footwear,Pinnacle,66.25,165.35
+90,Meridian Classic Footwear 12,Apparel,Footwear,Meridian,166.93,330.32
+91,Sable & Co Classic Footwear 13,Apparel,Footwear,Sable & Co,159.13,260.92
+92,Meridian Ultra Cookware 1,Home & Kitchen,Cookware,Meridian,50.96,145.74
+93,Northgate Compact Cookware 2,Home & Kitchen,Cookware,Northgate,157.5,468.37
+94,Pinnacle Ultra Cookware 3,Home & Kitchen,Cookware,Pinnacle,147.72,345.15
+95,CoastalGear Ultra Cookware 4,Home & Kitchen,Cookware,CoastalGear,43.23,114.82
+96,Meridian Signature Cookware 5,Home & Kitchen,Cookware,Meridian,53.03,90.74
+97,CoastalGear Signature Cookware 6,Home & Kitchen,Cookware,CoastalGear,116.9,261.8
+98,Vantage Signature Cookware 7,Home & Kitchen,Cookware,Vantage,169.31,302.14
+99,CoastalGear Classic Cookware 8,Home & Kitchen,Cookware,CoastalGear,106.18,336.98
+100,Aurora Essential Cookware 9,Home & Kitchen,Cookware,Aurora,109.0,234.69
+101,Lumen Compact Cookware 10,Home & Kitchen,Cookware,Lumen,110.69,267.68
+102,Meridian Ultra Cookware 11,Home & Kitchen,Cookware,Meridian,48.83,133.5
+103,Aurora Ultra Cookware 12,Home & Kitchen,Cookware,Aurora,68.1,116.58
+104,Crestline Signature Cookware 13,Home & Kitchen,Cookware,Crestline,113.68,302.55
+105,Northgate Everyday Cookware 14,Home & Kitchen,Cookware,Northgate,93.25,248.7
+106,Lumen Compact Cookware 15,Home & Kitchen,Cookware,Lumen,126.71,315.14
+107,Pinnacle Compact Cookware 16,Home & Kitchen,Cookware,Pinnacle,121.03,267.07
+108,Basecamp Classic Cookware 17,Home & Kitchen,Cookware,Basecamp,112.33,233.82
+109,Aurora Everyday Small Appliance 1,Home & Kitchen,Small Appliances,Aurora,54.5,124.69
+110,Willowbrook Signature Small Appliance 2,Home & Kitchen,Small Appliances,Willowbrook,85.84,198.07
+111,Pinnacle Deluxe Small Appliance 3,Home & Kitchen,Small Appliances,Pinnacle,143.7,450.6
+112,Basecamp Classic Small Appliance 4,Home & Kitchen,Small Appliances,Basecamp,119.96,246.4
+113,Crestline Signature Small Appliance 5,Home & Kitchen,Small Appliances,Crestline,20.44,63.84
+114,Pinnacle Everyday Small Appliance 6,Home & Kitchen,Small Appliances,Pinnacle,43.54,83.54
+115,Aurora Pro Small Appliance 7,Home & Kitchen,Small Appliances,Aurora,47.09,111.14
+116,Northgate Deluxe Small Appliance 8,Home & Kitchen,Small Appliances,Northgate,76.94,200.63
+117,Pinnacle Compact Small Appliance 9,Home & Kitchen,Small Appliances,Pinnacle,91.01,181.14
+118,Crestline Pro Small Appliance 10,Home & Kitchen,Small Appliances,Crestline,161.11,479.58
+119,Northgate Compact Small Appliance 11,Home & Kitchen,Small Appliances,Northgate,42.52,122.74
+120,Basecamp Deluxe Small Appliance 12,Home & Kitchen,Small Appliances,Basecamp,12.84,25.66
+121,Northgate Deluxe Small Appliance 13,Home & Kitchen,Small Appliances,Northgate,27.47,64.37
+122,Vantage Signature Small Appliance 14,Home & Kitchen,Small Appliances,Vantage,171.21,518.13
+123,Willowbrook Compact Small Appliance 15,Home & Kitchen,Small Appliances,Willowbrook,150.18,371.94
+124,Sable & Co Deluxe Small Appliance 16,Home & Kitchen,Small Appliances,Sable & Co,83.21,233.22
+125,Crestline Everyday Small Appliance 17,Home & Kitchen,Small Appliances,Crestline,138.78,337.8
+126,Crestline Ultra Small Appliance 18,Home & Kitchen,Small Appliances,Crestline,52.33,90.22
+127,CoastalGear Ultra Small Appliance 19,Home & Kitchen,Small Appliances,CoastalGear,51.82,109.42
+128,Vantage Essential Small Appliance 20,Home & Kitchen,Small Appliances,Vantage,28.35,55.85
+129,Basecamp Ultra Bedding 1,Home & Kitchen,Bedding,Basecamp,15.3,34.46
+130,Vantage Deluxe Bedding 2,Home & Kitchen,Bedding,Vantage,77.18,149.03
+131,Meridian Compact Bedding 3,Home & Kitchen,Bedding,Meridian,163.25,413.76
+132,Basecamp Pro Bedding 4,Home & Kitchen,Bedding,Basecamp,154.78,437.25
+133,Meridian Deluxe Bedding 5,Home & Kitchen,Bedding,Meridian,5.04,10.9
+134,Meridian Compact Bedding 6,Home & Kitchen,Bedding,Meridian,98.73,274.02
+135,Willowbrook Ultra Bedding 7,Home & Kitchen,Bedding,Willowbrook,89.93,183.16
+136,Trailhead Pro Bedding 8,Home & Kitchen,Bedding,Trailhead,72.44,193.43
+137,Meridian Classic Bedding 9,Home & Kitchen,Bedding,Meridian,151.93,466.62
+138,Willowbrook Pro Bedding 10,Home & Kitchen,Bedding,Willowbrook,163.62,416.74
+139,Crestline Pro Bedding 11,Home & Kitchen,Bedding,Crestline,18.77,42.9
+140,Trailhead Classic Bedding 12,Home & Kitchen,Bedding,Trailhead,12.85,28.35
+141,Pinnacle Deluxe Bedding 13,Home & Kitchen,Bedding,Pinnacle,61.52,173.36
+142,Meridian Everyday Bedding 14,Home & Kitchen,Bedding,Meridian,136.35,399.65
+143,Northgate Deluxe Storage & Organization 1,Home & Kitchen,Storage & Organization,Northgate,7.41,18.25
+144,Lumen Ultra Storage & Organization 2,Home & Kitchen,Storage & Organization,Lumen,118.43,337.52
+145,Crestline Pro Storage & Organization 3,Home & Kitchen,Storage & Organization,Crestline,136.75,426.58
+146,Pinnacle Pro Storage & Organization 4,Home & Kitchen,Storage & Organization,Pinnacle,113.36,224.64
+147,Trailhead Essential Storage & Organization 5,Home & Kitchen,Storage & Organization,Trailhead,103.26,201.23
+148,Basecamp Everyday Storage & Organization 6,Home & Kitchen,Storage & Organization,Basecamp,138.97,259.66
+149,Willowbrook Essential Storage & Organization 7,Home & Kitchen,Storage & Organization,Willowbrook,140.89,262.34
+150,CoastalGear Essential Storage & Organization 8,Home & Kitchen,Storage & Organization,CoastalGear,105.85,326.68
+151,Willowbrook Compact Storage & Organization 9,Home & Kitchen,Storage & Organization,Willowbrook,73.81,202.54
+152,Northgate Ultra Storage & Organization 10,Home & Kitchen,Storage & Organization,Northgate,21.93,62.19
+153,Crestline Essential Storage & Organization 11,Home & Kitchen,Storage & Organization,Crestline,144.14,361.14
+154,Aurora Signature Storage & Organization 12,Home & Kitchen,Storage & Organization,Aurora,97.76,259.89
+155,Northgate Signature Storage & Organization 13,Home & Kitchen,Storage & Organization,Northgate,6.23,14.16
+156,Trailhead Essential Storage & Organization 14,Home & Kitchen,Storage & Organization,Trailhead,80.3,175.01
+157,Trailhead Classic Storage & Organization 15,Home & Kitchen,Storage & Organization,Trailhead,80.65,223.73
+158,Crestline Everyday Storage & Organization 16,Home & Kitchen,Storage & Organization,Crestline,112.4,345.22
+159,Trailhead Compact Audio 1,Electronics,Audio,Trailhead,149.33,380.49
+160,Lumen Ultra Audio 2,Electronics,Audio,Lumen,150.21,261.16
+161,Trailhead Ultra Audio 3,Electronics,Audio,Trailhead,136.08,341.8
+162,Crestline Compact Audio 4,Electronics,Audio,Crestline,63.21,151.13
+163,Lumen Classic Audio 5,Electronics,Audio,Lumen,89.81,194.68
+164,CoastalGear Signature Audio 6,Electronics,Audio,CoastalGear,53.22,135.92
+165,CoastalGear Pro Audio 7,Electronics,Audio,CoastalGear,94.93,180.91
+166,Pinnacle Compact Audio 8,Electronics,Audio,Pinnacle,89.99,253.15
+167,Basecamp Deluxe Audio 9,Electronics,Audio,Basecamp,117.68,280.7
+168,Aurora Essential Audio 10,Electronics,Audio,Aurora,55.79,125.36
+169,Pinnacle Everyday Audio 11,Electronics,Audio,Pinnacle,120.86,264.74
+170,Vantage Signature Audio 12,Electronics,Audio,Vantage,78.89,220.38
+171,Lumen Signature Audio 13,Electronics,Audio,Lumen,127.7,259.67
+172,CoastalGear Ultra Audio 14,Electronics,Audio,CoastalGear,25.24,48.16
+173,Northgate Classic Audio 15,Electronics,Audio,Northgate,37.71,104.9
+174,CoastalGear Everyday Audio 16,Electronics,Audio,CoastalGear,176.57,517.74
+175,CoastalGear Ultra Audio 17,Electronics,Audio,CoastalGear,67.52,140.69
+176,Basecamp Classic Audio 18,Electronics,Audio,Basecamp,52.28,165.15
+177,Vantage Everyday Audio 19,Electronics,Audio,Vantage,126.75,228.41
+178,Northgate Pro Wearable 1,Electronics,Wearables,Northgate,105.04,246.95
+179,Trailhead Signature Wearable 2,Electronics,Wearables,Trailhead,36.45,61.32
+180,Trailhead Essential Wearable 3,Electronics,Wearables,Trailhead,148.69,333.23
+181,Northgate Pro Wearable 4,Electronics,Wearables,Northgate,30.7,88.96
+182,CoastalGear Essential Wearable 5,Electronics,Wearables,CoastalGear,178.93,320.2
+183,Meridian Ultra Wearable 6,Electronics,Wearables,Meridian,140.52,310.35
+184,Trailhead Everyday Wearable 7,Electronics,Wearables,Trailhead,155.39,494.77
+185,CoastalGear Pro Wearable 8,Electronics,Wearables,CoastalGear,111.3,309.88
+186,Pinnacle Ultra Wearable 9,Electronics,Wearables,Pinnacle,50.58,87.5
+187,Pinnacle Classic Wearable 10,Electronics,Wearables,Pinnacle,101.15,187.17
+188,Meridian Deluxe Wearable 11,Electronics,Wearables,Meridian,125.33,294.76
+189,Aurora Ultra Wearable 12,Electronics,Wearables,Aurora,54.71,112.28
+190,Trailhead Essential Wearable 13,Electronics,Wearables,Trailhead,124.98,384.72
+191,Crestline Ultra Wearable 14,Electronics,Wearables,Crestline,78.82,194.79
+192,Crestline Classic Wearable 15,Electronics,Wearables,Crestline,163.88,478.96
+193,Northgate Pro Wearable 16,Electronics,Wearables,Northgate,33.2,69.46
+194,Basecamp Everyday Wearable 17,Electronics,Wearables,Basecamp,81.29,191.02
+195,CoastalGear Compact Wearable 18,Electronics,Wearables,CoastalGear,169.91,407.91
+196,Trailhead Deluxe Wearable 19,Electronics,Wearables,Trailhead,18.16,30.21
+197,Basecamp Signature Smart Home 1,Electronics,Smart Home,Basecamp,110.25,180.96
+198,Pinnacle Pro Smart Home 2,Electronics,Smart Home,Pinnacle,179.92,481.4
+199,CoastalGear Pro Smart Home 3,Electronics,Smart Home,CoastalGear,138.31,260.07
+200,Vantage Deluxe Smart Home 4,Electronics,Smart Home,Vantage,165.23,312.35
+201,Willowbrook Compact Smart Home 5,Electronics,Smart Home,Willowbrook,115.72,276.2
+202,Northgate Deluxe Smart Home 6,Electronics,Smart Home,Northgate,65.24,139.18
+203,Crestline Essential Smart Home 7,Electronics,Smart Home,Crestline,154.96,329.71
+204,Basecamp Deluxe Smart Home 8,Electronics,Smart Home,Basecamp,54.73,170.34
+205,Vantage Pro Smart Home 9,Electronics,Smart Home,Vantage,84.05,176.78
+206,Lumen Essential Smart Home 10,Electronics,Smart Home,Lumen,174.75,392.61
+207,Vantage Pro Smart Home 11,Electronics,Smart Home,Vantage,119.75,295.56
+208,Meridian Pro Smart Home 12,Electronics,Smart Home,Meridian,37.01,80.64
+209,Trailhead Deluxe Smart Home 13,Electronics,Smart Home,Trailhead,137.76,265.28
+210,Vantage Classic Smart Home 14,Electronics,Smart Home,Vantage,167.27,384.89
+211,Basecamp Deluxe Smart Home 15,Electronics,Smart Home,Basecamp,25.37,80.09
+212,Willowbrook Ultra Smart Home 16,Electronics,Smart Home,Willowbrook,128.92,270.37
+213,Aurora Compact Smart Home 17,Electronics,Smart Home,Aurora,20.4,65.03
+214,Northgate Deluxe Smart Home 18,Electronics,Smart Home,Northgate,170.68,449.97
+215,Trailhead Everyday Accessorie 1,Electronics,Accessories,Trailhead,93.56,190.63
+216,Trailhead Deluxe Accessorie 2,Electronics,Accessories,Trailhead,46.9,116.41
+217,Meridian Ultra Accessorie 3,Electronics,Accessories,Meridian,166.25,401.19
+218,Sable & Co Essential Accessorie 4,Electronics,Accessories,Sable & Co,52.62,150.7
+219,Meridian Signature Accessorie 5,Electronics,Accessories,Meridian,168.43,406.32
+220,Aurora Everyday Accessorie 6,Electronics,Accessories,Aurora,131.78,387.43
+221,Willowbrook Deluxe Accessorie 7,Electronics,Accessories,Willowbrook,156.29,361.73
+222,Trailhead Signature Accessorie 8,Electronics,Accessories,Trailhead,62.51,176.32
+223,Meridian Deluxe Accessorie 9,Electronics,Accessories,Meridian,168.18,503.09
+224,Basecamp Ultra Accessorie 10,Electronics,Accessories,Basecamp,104.64,206.53
+225,Meridian Pro Accessorie 11,Electronics,Accessories,Meridian,60.0,141.41
+226,Meridian Compact Accessorie 12,Electronics,Accessories,Meridian,177.96,510.36
+227,Crestline Classic Accessorie 13,Electronics,Accessories,Crestline,91.18,151.29
+228,Vantage Signature Accessorie 14,Electronics,Accessories,Vantage,157.07,471.01
+229,Northgate Deluxe Skincare 1,Beauty & Personal Care,Skincare,Northgate,6.7,12.27
+230,Crestline Classic Skincare 2,Beauty & Personal Care,Skincare,Crestline,17.17,48.94
+231,CoastalGear Signature Skincare 3,Beauty & Personal Care,Skincare,CoastalGear,113.69,254.21
+232,Northgate Signature Skincare 4,Beauty & Personal Care,Skincare,Northgate,154.01,458.17
+233,Meridian Signature Skincare 5,Beauty & Personal Care,Skincare,Meridian,114.32,345.24
+234,Trailhead Pro Skincare 6,Beauty & Personal Care,Skincare,Trailhead,112.67,222.59
+235,Crestline Everyday Skincare 7,Beauty & Personal Care,Skincare,Crestline,179.55,501.81
+236,Meridian Essential Skincare 8,Beauty & Personal Care,Skincare,Meridian,137.83,375.76
+237,Northgate Deluxe Skincare 9,Beauty & Personal Care,Skincare,Northgate,33.28,69.19
+238,Aurora Pro Skincare 10,Beauty & Personal Care,Skincare,Aurora,61.09,103.23
+239,Lumen Signature Skincare 11,Beauty & Personal Care,Skincare,Lumen,79.8,158.86
+240,Meridian Classic Skincare 12,Beauty & Personal Care,Skincare,Meridian,33.92,58.56
+241,Meridian Ultra Skincare 13,Beauty & Personal Care,Skincare,Meridian,91.59,232.0
+242,Pinnacle Deluxe Skincare 14,Beauty & Personal Care,Skincare,Pinnacle,116.27,271.53
+243,Crestline Pro Skincare 15,Beauty & Personal Care,Skincare,Crestline,162.21,380.29
+244,CoastalGear Classic Skincare 16,Beauty & Personal Care,Skincare,CoastalGear,17.0,52.91
+245,Willowbrook Everyday Skincare 17,Beauty & Personal Care,Skincare,Willowbrook,116.45,265.38
+246,CoastalGear Deluxe Skincare 18,Beauty & Personal Care,Skincare,CoastalGear,152.77,293.13
+247,Meridian Deluxe Skincare 19,Beauty & Personal Care,Skincare,Meridian,22.77,50.33
+248,Willowbrook Everyday Haircare 1,Beauty & Personal Care,Haircare,Willowbrook,178.71,370.35
+249,Crestline Compact Haircare 2,Beauty & Personal Care,Haircare,Crestline,52.31,131.06
+250,Crestline Pro Haircare 3,Beauty & Personal Care,Haircare,Crestline,164.27,458.69
+251,CoastalGear Ultra Haircare 4,Beauty & Personal Care,Haircare,CoastalGear,110.84,239.83
+252,Crestline Ultra Haircare 5,Beauty & Personal Care,Haircare,Crestline,113.28,304.09
+253,Basecamp Classic Haircare 6,Beauty & Personal Care,Haircare,Basecamp,114.57,348.92
+254,Crestline Pro Haircare 7,Beauty & Personal Care,Haircare,Crestline,58.37,134.56
+255,Willowbrook Signature Haircare 8,Beauty & Personal Care,Haircare,Willowbrook,132.9,231.81
+256,CoastalGear Signature Haircare 9,Beauty & Personal Care,Haircare,CoastalGear,135.56,254.99
+257,Sable & Co Signature Haircare 10,Beauty & Personal Care,Haircare,Sable & Co,97.43,298.29
+258,Sable & Co Everyday Haircare 11,Beauty & Personal Care,Haircare,Sable & Co,164.87,512.86
+259,CoastalGear Signature Haircare 12,Beauty & Personal Care,Haircare,CoastalGear,145.54,341.92
+260,Northgate Classic Haircare 13,Beauty & Personal Care,Haircare,Northgate,136.73,268.13
+261,Crestline Compact Haircare 14,Beauty & Personal Care,Haircare,Crestline,174.24,503.09
+262,Lumen Essential Haircare 15,Beauty & Personal Care,Haircare,Lumen,143.16,232.24
+263,Vantage Essential Haircare 16,Beauty & Personal Care,Haircare,Vantage,84.04,224.94
+264,Crestline Everyday Haircare 17,Beauty & Personal Care,Haircare,Crestline,106.88,311.65
+265,Northgate Ultra Fragrance 1,Beauty & Personal Care,Fragrance,Northgate,86.98,225.39
+266,Vantage Signature Fragrance 2,Beauty & Personal Care,Fragrance,Vantage,165.09,322.62
+267,Northgate Deluxe Fragrance 3,Beauty & Personal Care,Fragrance,Northgate,164.05,341.8
+268,Meridian Essential Fragrance 4,Beauty & Personal Care,Fragrance,Meridian,28.6,89.06
+269,CoastalGear Deluxe Fragrance 5,Beauty & Personal Care,Fragrance,CoastalGear,24.44,48.29
+270,Vantage Classic Fragrance 6,Beauty & Personal Care,Fragrance,Vantage,72.4,158.82
+271,Basecamp Compact Fragrance 7,Beauty & Personal Care,Fragrance,Basecamp,107.37,296.62
+272,Meridian Essential Fragrance 8,Beauty & Personal Care,Fragrance,Meridian,150.73,389.64
+273,CoastalGear Pro Fragrance 9,Beauty & Personal Care,Fragrance,CoastalGear,125.49,244.41
+274,Trailhead Ultra Fragrance 10,Beauty & Personal Care,Fragrance,Trailhead,154.56,271.87
+275,Crestline Signature Fragrance 11,Beauty & Personal Care,Fragrance,Crestline,99.83,315.92
+276,Lumen Pro Fragrance 12,Beauty & Personal Care,Fragrance,Lumen,74.07,141.01
+277,Northgate Deluxe Fragrance 13,Beauty & Personal Care,Fragrance,Northgate,20.13,39.04
+278,Crestline Pro Fragrance 14,Beauty & Personal Care,Fragrance,Crestline,12.9,27.52
+279,Sable & Co Ultra Fragrance 15,Beauty & Personal Care,Fragrance,Sable & Co,16.08,45.41
+280,Pinnacle Ultra Fragrance 16,Beauty & Personal Care,Fragrance,Pinnacle,147.1,290.2
+281,Sable & Co Pro Fragrance 17,Beauty & Personal Care,Fragrance,Sable & Co,52.8,167.61
+282,Vantage Everyday Fitness Equipment 1,Sports & Outdoors,Fitness Equipment,Vantage,144.54,256.69
+283,Aurora Classic Fitness Equipment 2,Sports & Outdoors,Fitness Equipment,Aurora,6.62,18.96
+284,Pinnacle Signature Fitness Equipment 3,Sports & Outdoors,Fitness Equipment,Pinnacle,6.78,13.73
+285,Sable & Co Compact Fitness Equipment 4,Sports & Outdoors,Fitness Equipment,Sable & Co,96.59,269.78
+286,Trailhead Deluxe Fitness Equipment 5,Sports & Outdoors,Fitness Equipment,Trailhead,140.93,341.22
+287,Northgate Deluxe Fitness Equipment 6,Sports & Outdoors,Fitness Equipment,Northgate,92.68,288.48
+288,Aurora Everyday Fitness Equipment 7,Sports & Outdoors,Fitness Equipment,Aurora,84.62,265.91
+289,Aurora Deluxe Fitness Equipment 8,Sports & Outdoors,Fitness Equipment,Aurora,153.12,349.43
+290,Northgate Deluxe Fitness Equipment 9,Sports & Outdoors,Fitness Equipment,Northgate,129.38,298.83
+291,Northgate Signature Fitness Equipment 10,Sports & Outdoors,Fitness Equipment,Northgate,111.06,189.37
+292,CoastalGear Signature Fitness Equipment 11,Sports & Outdoors,Fitness Equipment,CoastalGear,71.04,181.57
+293,CoastalGear Deluxe Fitness Equipment 12,Sports & Outdoors,Fitness Equipment,CoastalGear,92.98,212.77
+294,Basecamp Essential Fitness Equipment 13,Sports & Outdoors,Fitness Equipment,Basecamp,154.09,407.02
+295,Vantage Ultra Fitness Equipment 14,Sports & Outdoors,Fitness Equipment,Vantage,79.69,240.74
+296,Lumen Deluxe Camping 1,Sports & Outdoors,Camping,Lumen,74.18,205.28
+297,Lumen Compact Camping 2,Sports & Outdoors,Camping,Lumen,59.0,118.46
+298,Sable & Co Deluxe Camping 3,Sports & Outdoors,Camping,Sable & Co,15.82,46.37
+299,Northgate Compact Camping 4,Sports & Outdoors,Camping,Northgate,21.0,58.42
+300,Sable & Co Pro Camping 5,Sports & Outdoors,Camping,Sable & Co,107.22,267.89
+301,Lumen Essential Camping 6,Sports & Outdoors,Camping,Lumen,76.3,228.73
+302,Meridian Pro Camping 7,Sports & Outdoors,Camping,Meridian,174.44,446.68
+303,Lumen Essential Camping 8,Sports & Outdoors,Camping,Lumen,105.71,205.12
+304,Crestline Deluxe Camping 9,Sports & Outdoors,Camping,Crestline,43.47,77.08
+305,Vantage Signature Camping 10,Sports & Outdoors,Camping,Vantage,24.22,49.55
+306,Pinnacle Compact Camping 11,Sports & Outdoors,Camping,Pinnacle,152.75,482.58
+307,Willowbrook Pro Camping 12,Sports & Outdoors,Camping,Willowbrook,111.18,294.91
+308,Basecamp Everyday Camping 13,Sports & Outdoors,Camping,Basecamp,9.1,18.54
+309,CoastalGear Signature Camping 14,Sports & Outdoors,Camping,CoastalGear,65.78,124.34
+310,Sable & Co Compact Camping 15,Sports & Outdoors,Camping,Sable & Co,16.25,45.27
+311,Aurora Essential Camping 16,Sports & Outdoors,Camping,Aurora,135.32,263.09
+312,Meridian Deluxe Camping 17,Sports & Outdoors,Camping,Meridian,64.0,140.29
+313,Basecamp Signature Camping 18,Sports & Outdoors,Camping,Basecamp,140.72,352.95
+314,Aurora Classic Cycling 1,Sports & Outdoors,Cycling,Aurora,31.7,82.06
+315,Crestline Essential Cycling 2,Sports & Outdoors,Cycling,Crestline,51.89,137.98
+316,Trailhead Deluxe Cycling 3,Sports & Outdoors,Cycling,Trailhead,76.9,149.56
+317,Vantage Essential Cycling 4,Sports & Outdoors,Cycling,Vantage,64.75,115.09
+318,Crestline Deluxe Cycling 5,Sports & Outdoors,Cycling,Crestline,96.74,202.52
+319,Pinnacle Compact Cycling 6,Sports & Outdoors,Cycling,Pinnacle,177.26,299.15
+320,Pinnacle Everyday Cycling 7,Sports & Outdoors,Cycling,Pinnacle,170.38,481.79
+321,CoastalGear Everyday Cycling 8,Sports & Outdoors,Cycling,CoastalGear,61.75,99.56
+322,Basecamp Compact Cycling 9,Sports & Outdoors,Cycling,Basecamp,34.92,77.11
+323,Basecamp Ultra Cycling 10,Sports & Outdoors,Cycling,Basecamp,92.05,270.02
+324,Lumen Essential Cycling 11,Sports & Outdoors,Cycling,Lumen,73.88,205.92
+325,Meridian Pro Cycling 12,Sports & Outdoors,Cycling,Meridian,84.92,146.45
+326,Lumen Compact Cycling 13,Sports & Outdoors,Cycling,Lumen,104.92,286.98
+327,CoastalGear Essential Building Set 1,Toys & Games,Building Sets,CoastalGear,75.29,236.86
+328,Sable & Co Deluxe Building Set 2,Toys & Games,Building Sets,Sable & Co,150.44,462.1
+329,Northgate Compact Building Set 3,Toys & Games,Building Sets,Northgate,152.63,303.63
+330,Willowbrook Compact Building Set 4,Toys & Games,Building Sets,Willowbrook,96.22,214.88
+331,CoastalGear Signature Building Set 5,Toys & Games,Building Sets,CoastalGear,43.0,122.4
+332,Northgate Essential Building Set 6,Toys & Games,Building Sets,Northgate,97.39,186.04
+333,Lumen Signature Building Set 7,Toys & Games,Building Sets,Lumen,132.02,384.22
+334,Sable & Co Ultra Building Set 8,Toys & Games,Building Sets,Sable & Co,22.09,44.39
+335,Sable & Co Classic Building Set 9,Toys & Games,Building Sets,Sable & Co,137.8,365.01
+336,Sable & Co Deluxe Building Set 10,Toys & Games,Building Sets,Sable & Co,85.66,214.32
+337,Willowbrook Deluxe Building Set 11,Toys & Games,Building Sets,Willowbrook,123.88,373.04
+338,Crestline Signature Building Set 12,Toys & Games,Building Sets,Crestline,156.11,406.44
+339,Sable & Co Deluxe Building Set 13,Toys & Games,Building Sets,Sable & Co,16.02,36.97
+340,CoastalGear Everyday Building Set 14,Toys & Games,Building Sets,CoastalGear,108.09,233.81
+341,Northgate Everyday Building Set 15,Toys & Games,Building Sets,Northgate,85.27,141.56
+342,Lumen Everyday Building Set 16,Toys & Games,Building Sets,Lumen,17.5,52.2
+343,Northgate Compact Building Set 17,Toys & Games,Building Sets,Northgate,85.44,212.48
+344,Basecamp Pro Building Set 18,Toys & Games,Building Sets,Basecamp,83.15,240.78
+345,Pinnacle Signature Board Game 1,Toys & Games,Board Games,Pinnacle,110.48,265.39
+346,Aurora Deluxe Board Game 2,Toys & Games,Board Games,Aurora,22.22,67.52
+347,Lumen Essential Board Game 3,Toys & Games,Board Games,Lumen,92.8,174.1
+348,Pinnacle Deluxe Board Game 4,Toys & Games,Board Games,Pinnacle,178.41,435.05
+349,Willowbrook Classic Board Game 5,Toys & Games,Board Games,Willowbrook,68.05,208.82
+350,Meridian Compact Board Game 6,Toys & Games,Board Games,Meridian,140.31,376.91
+351,Aurora Signature Board Game 7,Toys & Games,Board Games,Aurora,15.6,27.32
+352,Crestline Compact Board Game 8,Toys & Games,Board Games,Crestline,54.01,148.96
+353,Crestline Classic Board Game 9,Toys & Games,Board Games,Crestline,62.67,158.7
+354,Sable & Co Signature Board Game 10,Toys & Games,Board Games,Sable & Co,58.6,155.27
+355,Crestline Compact Board Game 11,Toys & Games,Board Games,Crestline,26.7,73.0
+356,Northgate Everyday Board Game 12,Toys & Games,Board Games,Northgate,102.37,269.19
+357,Lumen Classic Board Game 13,Toys & Games,Board Games,Lumen,121.94,356.84
+358,Basecamp Essential Board Game 14,Toys & Games,Board Games,Basecamp,117.7,268.06
+359,Lumen Pro Board Game 15,Toys & Games,Board Games,Lumen,67.82,128.07
+360,Pinnacle Signature Board Game 16,Toys & Games,Board Games,Pinnacle,170.79,406.14
+361,Pinnacle Classic Board Game 17,Toys & Games,Board Games,Pinnacle,31.27,64.83
+362,Northgate Pro Board Game 18,Toys & Games,Board Games,Northgate,120.5,361.77
+363,Willowbrook Classic Board Game 19,Toys & Games,Board Games,Willowbrook,109.12,201.52
+364,Sable & Co Classic Board Game 20,Toys & Games,Board Games,Sable & Co,130.93,218.64
+365,Lumen Ultra Board Game 21,Toys & Games,Board Games,Lumen,174.65,450.06
+366,Basecamp Deluxe Board Game 22,Toys & Games,Board Games,Basecamp,45.18,89.58
+367,Pinnacle Signature Outdoor Play 1,Toys & Games,Outdoor Play,Pinnacle,123.38,310.01
+368,Trailhead Deluxe Outdoor Play 2,Toys & Games,Outdoor Play,Trailhead,139.42,396.65
+369,Vantage Compact Outdoor Play 3,Toys & Games,Outdoor Play,Vantage,174.06,506.0
+370,Willowbrook Classic Outdoor Play 4,Toys & Games,Outdoor Play,Willowbrook,157.65,265.4
+371,Trailhead Signature Outdoor Play 5,Toys & Games,Outdoor Play,Trailhead,101.6,179.24
+372,Vantage Essential Outdoor Play 6,Toys & Games,Outdoor Play,Vantage,54.17,152.81
+373,CoastalGear Deluxe Outdoor Play 7,Toys & Games,Outdoor Play,CoastalGear,163.33,299.83
+374,Meridian Essential Outdoor Play 8,Toys & Games,Outdoor Play,Meridian,170.57,333.51
+375,Trailhead Signature Outdoor Play 9,Toys & Games,Outdoor Play,Trailhead,167.76,379.78
+376,Meridian Signature Outdoor Play 10,Toys & Games,Outdoor Play,Meridian,45.5,145.2
+377,Lumen Ultra Outdoor Play 11,Toys & Games,Outdoor Play,Lumen,8.96,27.68
+378,Basecamp Signature Outdoor Play 12,Toys & Games,Outdoor Play,Basecamp,143.28,260.79
+379,CoastalGear Deluxe Outdoor Play 13,Toys & Games,Outdoor Play,CoastalGear,126.51,230.51
+380,Basecamp Deluxe Outdoor Play 14,Toys & Games,Outdoor Play,Basecamp,82.95,133.42
+381,Northgate Pro Outdoor Play 15,Toys & Games,Outdoor Play,Northgate,49.04,143.98
+382,Vantage Compact Outdoor Play 16,Toys & Games,Outdoor Play,Vantage,23.57,48.58
+383,CoastalGear Essential Outdoor Play 17,Toys & Games,Outdoor Play,CoastalGear,12.4,28.17
+384,Willowbrook Deluxe Outdoor Play 18,Toys & Games,Outdoor Play,Willowbrook,15.05,44.23
+385,Trailhead Pro Outdoor Play 19,Toys & Games,Outdoor Play,Trailhead,115.22,290.36
